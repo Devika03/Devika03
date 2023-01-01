@@ -9,9 +9,9 @@
    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
    </a>
 </p>
-<h1>  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /> Hii there 👋, It's Devika Simlai, I'm a Data Science Enthusiast 🚀 and Competitive Programmer</h1>
+<h1>  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /> Hey there, I am Devika Simlai, A  Data Science Enthusiast and A Competitive Programmer</h1>
  
-   I am a B.Tech undergrad at IIEST Shibpur , Kolkata pursuing Computer Science Engineering. I am a keen learner and love gathering knowledge about new things, technologies and improve my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.
+   A B.Tech undergraduate at IIEST , Shibpur pursuing Computer Science Engineering. I love to connect with new people and admire everyone having a passion for coding.
  
    ## About Me (Intro) ~
    <p align="center">
@@ -19,13 +19,11 @@
    <a>
  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='5"'>
 
-   -  Skills: C++/ C/ Python
+   -  Skills: C/C++/Python
    - 🔭 I’m currently working on Data Science and pacticing DSA. 
-   - 🌱 I’m currently learning Numpy,MySql
+   - 🌱 I’m currently learning 
    - 👯 I’m looking to collaborate on Open Source Contributions. 
    - 💬 Ask me about Problem-solving and DSA. 
-   - 😄 Pronouns: she /her. 
-   - ⚡ Fun fact: I am Funny.
    </a>
  <p align="center">
    <a>
