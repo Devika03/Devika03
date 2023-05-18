@@ -74,7 +74,7 @@
    
 </div>
 
-<h2 align="center">My Contribution Streak !! :fire:</h2>
+<h2 align="center">My Contribution Streak :fire:</h2>
 
 <p align="center">
    <a>
@@ -132,7 +132,7 @@
 ![Profile views](https://gpvc.arturio.dev/Devika03)  
 
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 
 <img align="right" height="100" width="100" src="https://customsitesmedia.usc.edu/wp-content/uploads/sites/308/2016/10/17131545/tumblr_o7jfjpvlny1tbhzhno1_500.gif" width="930"/>
 
@@ -202,7 +202,7 @@ for dino game
 </p>
 
 <div align="center">
-### 😂 Random Dev Meme
+### 😂 Random Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 [![@mugdha's Holopin board](https://holopin.me/mugdha)](https://holopin.io/@mugdha)
@@ -210,6 +210,6 @@ for dino game
 ### Show some ❤️ by starring some of the repositories!
 
 -->
-### 😂 Random Dev Meme Guysss now Some MeMe timeee (Do Laugh Out Loud XD)!!!
+### Random Dev Meme !
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
