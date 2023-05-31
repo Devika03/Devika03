@@ -19,9 +19,9 @@
  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='5"'>
 
    -  Skills: C/C++/Python
-   - 🔭 I’m currently working on Data Science and pacticing DSA. 
-   - 🌱 I’m currently learning 
-   - 👯 I’m looking to collaborate on Open Source Contributions. 
+   - 🔭 I’m currently working on Data Science, AI-ML and pacticing DSA. 
+   - 🌱 I’m currently learning !
+   - 👯 I’m looking forward to collaborate on Open Source Contributions. 
    - 💬 Ask me about Problem-solving and DSA. 
    </a>
  <p align="center">
