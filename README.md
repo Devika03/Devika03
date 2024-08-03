@@ -32,11 +32,11 @@
   
    <br/>
   
-  ## My contribution Graph : 
+  <!--## My contribution Graph : 
   
    ![](https://activity-graph.herokuapp.com/graph?username=Devika03&theme=dracula&hide_border=true&area=true)
  
-   <br/>
+   <br/> -->
  
    
 <!--<img align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230"> -->
@@ -73,9 +73,9 @@
 
 <p align="center">
    <a>
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+   <!--<img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">-->
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Devika03&theme=dark&hide_border=true"/>
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+   <!--<img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">-->
    </a>
 </p>
 
